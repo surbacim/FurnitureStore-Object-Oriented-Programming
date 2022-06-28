@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations>
+ <Operation ID="1">
+  <Type>Buying</Type>
+  <DateTime>
+   <Date>25 декабря 2020 г.</Date>
+   <Time>22:55</Time>
+  </DateTime>
+  <Buyer>
+   <Name>Георгий</Name>
+  </Buyer>
+  <Furniture>
+   <TypeFurniture>Bed</TypeFurniture>
+   <Name>Диван</Name>
+   <Cost>18000</Cost>
+  </Furniture>
+  <Operation ID="2">
+   <Type>Delivery</Type>
+   <DateTime>
+    <Date>25 декабря 2020 г.</Date>
+    <Time>22:55</Time>
+   </DateTime>
+   <Buyer>
+    <Name>Георгий</Name>
+   </Buyer>
+   <Furniture>
+    <TypeFurniture>Bed</TypeFurniture>
+    <Name>Диван</Name>
+    <Cost>18000</Cost>
+   </Furniture>
+   <Operation ID="3">
+    <Type>Buying</Type>
+    <DateTime>
+     <Date>25 декабря 2020 г.</Date>
+     <Time>22:55</Time>
+    </DateTime>
+    <Buyer>
+     <Name>Елена</Name>
+    </Buyer>
+    <Furniture>
+     <TypeFurniture>Bed</TypeFurniture>
+     <Name>Кровать</Name>
+     <Cost>24799</Cost>
+    </Furniture>
+    <Operation ID="4">
+     <Type>Buying</Type>
+     <DateTime>
+      <Date>25 декабря 2020 г.</Date>
+      <Time>22:55</Time>
+     </DateTime>
+     <Buyer>
+      <Name>Роман</Name>
+     </Buyer>
+     <Furniture>
+      <TypeFurniture>Bed</TypeFurniture>
+      <Name>Тахта</Name>
+      <Cost>6499</Cost>
+     </Furniture>
+     <Operation ID="5">
+      <Type>Buying</Type>
+      <DateTime>
+       <Date>25 декабря 2020 г.</Date>
+       <Time>22:55</Time>
+      </DateTime>
+      <Buyer>
+       <Name>Светлана</Name>
+      </Buyer>
+      <Furniture>
+       <TypeFurniture>Bed</TypeFurniture>
+       <Name>Кровать</Name>
+       <Cost>9980</Cost>
+      </Furniture>
+      <Operation ID="6">
+       <Type>Buying</Type>
+       <DateTime>
+        <Date>25 декабря 2020 г.</Date>
+        <Time>22:55</Time>
+       </DateTime>
+       <Buyer>
+        <Name>Марина</Name>
+       </Buyer>
+       <Furniture>
+        <TypeFurniture>Cupboard</TypeFurniture>
+        <Name>Трюмо</Name>
+        <Cost>5540</Cost>
+       </Furniture>
+       <Operation ID="7">
+        <Type>StartSetting</Type>
+        <DateTime>
+         <Date>25 декабря 2020 г.</Date>
+         <Time>22:55</Time>
+        </DateTime>
+        <Buyer>
+         <Name>Георгий</Name>
+        </Buyer>
+        <Furniture>
+         <TypeFurniture>Bed</TypeFurniture>
+         <Name>Диван</Name>
+         <Cost>18000</Cost>
+        </Furniture>
+        <Operation ID="8">
+         <Type>Delivery</Type>
+         <DateTime>
+          <Date>25 декабря 2020 г.</Date>
+          <Time>22:55</Time>
+         </DateTime>
+         <Buyer>
+          <Name>Елена</Name>
+         </Buyer>
+         <Furniture>
+          <TypeFurniture>Bed</TypeFurniture>
+          <Name>Кровать</Name>
+          <Cost>24799</Cost>
+         </Furniture>
+         <Operation ID="9">
+          <Type>Delivery</Type>
+          <DateTime>
+           <Date>25 декабря 2020 г.</Date>
+           <Time>22:55</Time>
+          </DateTime>
+          <Buyer>
+           <Name>Марина</Name>
+          </Buyer>
+          <Furniture>
+           <TypeFurniture>Cupboard</TypeFurniture>
+           <Name>Трюмо</Name>
+           <Cost>5540</Cost>
+          </Furniture>
+          <Operation ID="10">
+           <Type>StartSetting</Type>
+           <DateTime>
+            <Date>25 декабря 2020 г.</Date>
+            <Time>22:55</Time>
+           </DateTime>
+           <Buyer>
+            <Name>Марина</Name>
+           </Buyer>
+           <Furniture>
+            <TypeFurniture>Cupboard</TypeFurniture>
+            <Name>Трюмо</Name>
+            <Cost>5540</Cost>
+           </Furniture>
+           <Operation ID="11">
+            <Type>Delivery</Type>
+            <DateTime>
+             <Date>25 декабря 2020 г.</Date>
+             <Time>22:55</Time>
+            </DateTime>
+            <Buyer>
+             <Name>Светлана</Name>
+            </Buyer>
+            <Furniture>
+             <TypeFurniture>Bed</TypeFurniture>
+             <Name>Кровать</Name>
+             <Cost>9980</Cost>
+            </Furniture>
+            <Operation ID="12">
+             <Type>Delivery</Type>
+             <DateTime>
+              <Date>25 декабря 2020 г.</Date>
+              <Time>22:55</Time>
+             </DateTime>
+             <Buyer>
+              <Name>Роман</Name>
+             </Buyer>
+             <Furniture>
+              <TypeFurniture>Bed</TypeFurniture>
+              <Name>Тахта</Name>
+              <Cost>6499</Cost>
+             </Furniture>
+             <Operation ID="13">
+              <Type>StartSetting</Type>
+              <DateTime>
+               <Date>25 декабря 2020 г.</Date>
+               <Time>22:55</Time>
+              </DateTime>
+              <Buyer>
+               <Name>Елена</Name>
+              </Buyer>
+              <Furniture>
+               <TypeFurniture>Bed</TypeFurniture>
+               <Name>Кровать</Name>
+               <Cost>24799</Cost>
+              </Furniture>
+              <Operation ID="14">
+               <Type>FinishSetting</Type>
+               <DateTime>
+                <Date>25 декабря 2020 г.</Date>
+                <Time>22:55</Time>
+               </DateTime>
+               <Buyer>
+                <Name>Георгий</Name>
+               </Buyer>
+               <Furniture>
+                <TypeFurniture>Bed</TypeFurniture>
+                <Name>Диван</Name>
+                <Cost>18000</Cost>
+               </Furniture>
+               <Operation ID="15">
+                <Type>StartSetting</Type>
+                <DateTime>
+                 <Date>25 декабря 2020 г.</Date>
+                 <Time>22:55</Time>
+                </DateTime>
+                <Buyer>
+                 <Name>Светлана</Name>
+                </Buyer>
+                <Furniture>
+                 <TypeFurniture>Bed</TypeFurniture>
+                 <Name>Кровать</Name>
+                 <Cost>9980</Cost>
+                </Furniture>
+                <Operation ID="16">
+                 <Type>StartSetting</Type>
+                 <DateTime>
+                  <Date>25 декабря 2020 г.</Date>
+                  <Time>22:55</Time>
+                 </DateTime>
+                 <Buyer>
+                  <Name>Роман</Name>
+                 </Buyer>
+                 <Furniture>
+                  <TypeFurniture>Bed</TypeFurniture>
+                  <Name>Тахта</Name>
+                  <Cost>6499</Cost>
+                 </Furniture>
+                 <Operation ID="17">
+                  <Type>FinishSetting</Type>
+                  <DateTime>
+                   <Date>25 декабря 2020 г.</Date>
+                   <Time>22:55</Time>
+                  </DateTime>
+                  <Buyer>
+                   <Name>Марина</Name>
+                  </Buyer>
+                  <Furniture>
+                   <TypeFurniture>Cupboard</TypeFurniture>
+                   <Name>Трюмо</Name>
+                   <Cost>5540</Cost>
+                  </Furniture>
+                  <Operation ID="18">
+                   <Type>Using</Type>
+                   <DateTime>
+                    <Date>25 декабря 2020 г.</Date>
+                    <Time>22:55</Time>
+                   </DateTime>
+                   <Buyer>
+                    <Name>Георгий</Name>
+                   </Buyer>
+                   <Furniture>
+                    <TypeFurniture>Bed</TypeFurniture>
+                    <Name>Диван</Name>
+                    <Cost>18000</Cost>
+                   </Furniture>
+                   <Operation ID="19">
+                    <Type>FinishSetting</Type>
+                    <DateTime>
+                     <Date>25 декабря 2020 г.</Date>
+                     <Time>22:55</Time>
+                    </DateTime>
+                    <Buyer>
+                     <Name>Светлана</Name>
+                    </Buyer>
+                    <Furniture>
+                     <TypeFurniture>Bed</TypeFurniture>
+                     <Name>Кровать</Name>
+                     <Cost>9980</Cost>
+                    </Furniture>
+                    <Operation ID="20">
+                     <Type>FinishSetting</Type>
+                     <DateTime>
+                      <Date>25 декабря 2020 г.</Date>
+                      <Time>22:55</Time>
+                     </DateTime>
+                     <Buyer>
+                      <Name>Елена</Name>
+                     </Buyer>
+                     <Furniture>
+                      <TypeFurniture>Bed</TypeFurniture>
+                      <Name>Кровать</Name>
+                      <Cost>24799</Cost>
+                     </Furniture>
+                     <Operation ID="21">
+                      <Type>Using</Type>
+                      <DateTime>
+                       <Date>25 декабря 2020 г.</Date>
+                       <Time>22:55</Time>
+                      </DateTime>
+                      <Buyer>
+                       <Name>Марина</Name>
+                      </Buyer>
+                      <Furniture>
+                       <TypeFurniture>Cupboard</TypeFurniture>
+                       <Name>Трюмо</Name>
+                       <Cost>5540</Cost>
+                      </Furniture>
+                      <Operation ID="22">
+                       <Type>Using</Type>
+                       <DateTime>
+                        <Date>25 декабря 2020 г.</Date>
+                        <Time>22:55</Time>
+                       </DateTime>
+                       <Buyer>
+                        <Name>Елена</Name>
+                       </Buyer>
+                       <Furniture>
+                        <TypeFurniture>Bed</TypeFurniture>
+                        <Name>Кровать</Name>
+                        <Cost>24799</Cost>
+                       </Furniture>
+                       <Operation ID="23">
+                        <Type>FinishSetting</Type>
+                        <DateTime>
+                         <Date>25 декабря 2020 г.</Date>
+                         <Time>22:55</Time>
+                        </DateTime>
+                        <Buyer>
+                         <Name>Роман</Name>
+                        </Buyer>
+                        <Furniture>
+                         <TypeFurniture>Bed</TypeFurniture>
+                         <Name>Тахта</Name>
+                         <Cost>6499</Cost>
+                        </Furniture>
+                        <Operation ID="24">
+                         <Type>Using</Type>
+                         <DateTime>
+                          <Date>25 декабря 2020 г.</Date>
+                          <Time>22:55</Time>
+                         </DateTime>
+                         <Buyer>
+                          <Name>Светлана</Name>
+                         </Buyer>
+                         <Furniture>
+                          <TypeFurniture>Bed</TypeFurniture>
+                          <Name>Кровать</Name>
+                          <Cost>9980</Cost>
+                         </Furniture>
+                         <Operation ID="25">
+                          <Type>Using</Type>
+                          <DateTime>
+                           <Date>25 декабря 2020 г.</Date>
+                           <Time>22:55</Time>
+                          </DateTime>
+                          <Buyer>
+                           <Name>Роман</Name>
+                          </Buyer>
+                          <Furniture>
+                           <TypeFurniture>Bed</TypeFurniture>
+                           <Name>Тахта</Name>
+                           <Cost>6499</Cost>
+                          </Furniture>
+                         </Operation>
+                        </Operation>
+                       </Operation>
+                      </Operation>
+                     </Operation>
+                    </Operation>
+                   </Operation>
+                  </Operation>
+                 </Operation>
+                </Operation>
+               </Operation>
+              </Operation>
+             </Operation>
+            </Operation>
+           </Operation>
+          </Operation>
+         </Operation>
+        </Operation>
+       </Operation>
+      </Operation>
+     </Operation>
+    </Operation>
+   </Operation>
+  </Operation>
+ </Operation>
+</Operations>
